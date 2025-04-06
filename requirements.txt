@@ -1,0 +1,4 @@
+speechrecognition
+pyaudio
+spacy
+language_tool_python
